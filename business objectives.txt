@@ -1,0 +1,25 @@
+## Business Objectives
+
+Goals
+- Reduce industrial downtime by predicting equipment failures before they occur.  
+- Optimize maintenance costs through proactive and data-driven decision-making.  
+- Provide actionable insights that improve reliability, safety, and sustainability in industrial operations.  
+- Demonstrate a practical AI solution that balances academic rigor with real-world impact.  
+
+Success Criteria
+- Achieve at least 80% accuracy in predicting equipment failures on test data.  
+- Deliver a fully functional prototype integrated with simulated industrial sensor data.  
+- Ensure that results and decision-making outputs are transparent and explainable to end users.  
+- Receive positive evaluation during project presentation (21–23 October 2025) by meeting academic marking rubric standards.  
+
+Risks
+- Data Quality Issues: Simulated or public datasets may not fully represent real-world industrial environments.  
+- Model Overfitting: The predictive model may perform well in testing but poorly in real-world deployment.  
+- Time Constraints: Limited development time before project deadline may impact feature completeness.  
+- Technical Challenges:Integration of multiple AI techniques (ML, DL, NLP) could cause delays.  
+
+Constraints
+- Timeframe: Project must be completed by 13 October 2025.  
+- Resources:Limited to publicly available or simulated data and open-source tools.  
+- Team Capacity:Work divided among six members, with academic workload alongside project.  
+- Ethical Boundaries: AI solution must comply with ethical standards, avoiding bias and ensuring data privacy.  
