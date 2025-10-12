@@ -1,0 +1,100 @@
+student_id,content_id,score,time_spent,timestamp,student_name,title,subject,difficulty_level
+student_10,c_106,76.0,40,2025-10-10 22:00:51.895986,Nandi Ndlovu,Advanced Calculus,Mathematics,Advanced
+student_10,c_107,81.0,41,2025-10-10 22:00:51.895949,Nandi Ndlovu,Introduction to Python,Computer Science,Beginner
+student_7,c_103,59.0,36,2025-10-10 22:00:51.894745,Thando Mthembu,World War II History,History,Intermediate
+student_6,c_109,85.0,54,2025-10-10 16:00:51.894199,Glad Maimele,The Romantic Period,English,Advanced
+student_9,c_109,65.0,57,2025-10-10 09:00:51.895458,Sipho Dlamini,The Romantic Period,English,Advanced
+student_8,c_109,67.0,8,2025-10-09 21:00:51.895154,Lebo Moloi,The Romantic Period,English,Advanced
+student_9,c_106,78.0,39,2025-10-09 18:00:51.895702,Sipho Dlamini,Advanced Calculus,Mathematics,Advanced
+student_10,c_105,78.0,5,2025-10-09 11:00:51.895783,Nandi Ndlovu,Interactive Science Quiz,Science,Beginner
+student_2,c_106,96.0,41,2025-10-09 00:00:51.892724,Vutlhari Masinga,Advanced Calculus,Mathematics,Advanced
+student_6,c_108,66.0,26,2025-10-08 18:00:51.894501,Glad Maimele,Biology Lab Simulation,Biology,Intermediate
+student_8,c_109,63.0,51,2025-10-08 16:00:51.894983,Lebo Moloi,The Romantic Period,English,Advanced
+student_10,c_106,72.0,51,2025-10-08 04:00:51.895910,Nandi Ndlovu,Advanced Calculus,Mathematics,Advanced
+student_1,c_106,85.0,40,2025-10-07 14:00:51.896453,Bethuel Sonyoni,Advanced Calculus,Mathematics,Advanced
+student_2,c_105,64.0,36,2025-10-06 16:00:51.892592,Vutlhari Masinga,Interactive Science Quiz,Science,Beginner
+student_7,c_112,52.0,5,2025-10-06 15:00:51.894870,Thando Mthembu,The French Revolution,History,Intermediate
+student_2,c_109,92.0,30,2025-10-05 14:00:51.896456,Vutlhari Masinga,The Romantic Period,English,Advanced
+student_9,c_106,78.0,10,2025-10-05 05:00:51.895345,Sipho Dlamini,Advanced Calculus,Mathematics,Advanced
+student_4,c_107,68.0,13,2025-10-04 19:00:51.893520,Dimbanyika Phindulo,Introduction to Python,Computer Science,Beginner
+student_6,c_111,81.0,44,2025-10-04 15:00:51.894426,Glad Maimele,Intro to Web Dev,Computer Science,Intermediate
+student_9,c_112,70.0,42,2025-10-04 11:00:51.895532,Sipho Dlamini,The French Revolution,History,Intermediate
+student_10,c_109,96.0,57,2025-10-04 10:00:51.895820,Nandi Ndlovu,The Romantic Period,English,Advanced
+student_10,c_109,100.0,39,2025-10-04 07:00:51.895745,Nandi Ndlovu,The Romantic Period,English,Advanced
+student_5,c_112,95.0,10,2025-10-04 00:00:51.894084,Andile Maluleke,The French Revolution,History,Intermediate
+student_4,c_105,69.0,10,2025-10-03 13:00:51.893687,Dimbanyika Phindulo,Interactive Science Quiz,Science,Beginner
+student_7,c_104,98.0,13,2025-10-03 08:00:51.894831,Thando Mthembu,Poetry Analysis,English,Intermediate
+student_4,c_107,76.0,27,2025-10-03 07:00:51.893406,Dimbanyika Phindulo,Introduction to Python,Computer Science,Beginner
+student_7,c_101,56.0,32,2025-10-03 06:00:51.894707,Thando Mthembu,Introduction to Algebra,Mathematics,Beginner
+student_5,c_108,97.0,49,2025-10-03 03:00:51.893816,Andile Maluleke,Biology Lab Simulation,Biology,Intermediate
+student_3,c_103,76.0,12,2025-10-03 02:00:51.893146,Siyabonga Hlope,World War II History,History,Intermediate
+student_4,c_108,78.0,25,2025-10-02 14:00:51.896458,Dimbanyika Phindulo,Biology Lab Simulation,Biology,Intermediate
+student_8,c_103,74.0,19,2025-10-02 09:00:51.894946,Lebo Moloi,World War II History,History,Intermediate
+student_3,c_103,70.0,6,2025-10-02 08:00:51.893031,Siyabonga Hlope,World War II History,History,Intermediate
+student_8,c_101,84.0,8,2025-10-02 04:00:51.895058,Lebo Moloi,Introduction to Algebra,Mathematics,Beginner
+student_7,c_102,55.0,41,2025-10-02 02:00:51.894577,Thando Mthembu,The Scientific Method,Science,Beginner
+student_2,c_106,51.0,45,2025-10-02 02:00:51.892679,Vutlhari Masinga,Advanced Calculus,Mathematics,Advanced
+student_9,c_104,63.0,56,2025-10-01 20:00:51.895607,Sipho Dlamini,Poetry Analysis,English,Intermediate
+student_4,c_102,95.0,40,2025-10-01 06:00:51.893443,Dimbanyika Phindulo,The Scientific Method,Science,Beginner
+student_1,c_112,67.0,60,2025-09-30 23:00:51.892271,Bethuel Sonyoni,The French Revolution,History,Intermediate
+student_3,c_108,80.0,23,2025-09-30 21:00:51.893278,Siyabonga Hlope,Biology Lab Simulation,Biology,Intermediate
+student_6,c_110,95.0,8,2025-09-30 14:00:51.896460,Glad Maimele,Chemistry Basics Quiz,Chemistry,Beginner
+student_3,c_101,80.0,46,2025-09-30 06:00:51.892994,Siyabonga Hlope,Introduction to Algebra,Mathematics,Beginner
+student_2,c_108,71.0,6,2025-09-30 03:00:51.892880,Vutlhari Masinga,Biology Lab Simulation,Biology,Intermediate
+student_9,c_108,91.0,43,2025-09-29 12:00:51.895384,Sipho Dlamini,Biology Lab Simulation,Biology,Intermediate
+student_5,c_107,77.0,15,2025-09-29 05:00:51.894045,Andile Maluleke,Introduction to Python,Computer Science,Beginner
+student_6,c_108,52.0,25,2025-09-28 09:00:51.894161,Glad Maimele,Biology Lab Simulation,Biology,Intermediate
+student_9,c_103,82.0,41,2025-09-28 08:00:51.895654,Sipho Dlamini,World War II History,History,Intermediate
+student_1,c_112,92.0,32,2025-09-28 00:00:51.892230,Bethuel Sonyoni,The French Revolution,History,Intermediate
+student_10,c_105,66.0,30,2025-09-27 06:00:51.895858,Nandi Ndlovu,Interactive Science Quiz,Science,Beginner
+student_8,c_112,65.0,29,2025-09-27 06:00:51.895230,Lebo Moloi,The French Revolution,History,Intermediate
+student_3,c_105,83.0,9,2025-09-27 00:00:51.893108,Siyabonga Hlope,Interactive Science Quiz,Science,Beginner
+student_2,c_112,92.0,35,2025-09-26 16:00:51.892631,Vutlhari Masinga,The French Revolution,History,Intermediate
+student_1,c_109,64.0,5,2025-09-26 03:00:51.892501,Bethuel Sonyoni,The Romantic Period,English,Advanced
+student_7,c_109,75.0,30,2025-09-25 12:00:51.894783,Thando Mthembu,The Romantic Period,English,Advanced
+student_2,c_104,55.0,7,2025-09-25 09:00:51.892803,Vutlhari Masinga,Poetry Analysis,English,Intermediate
+student_8,c_102,83.0,14,2025-09-25 04:00:51.895021,Lebo Moloi,The Scientific Method,Science,Beginner
+student_5,c_111,77.0,36,2025-09-24 21:00:51.893932,Andile Maluleke,Intro to Web Dev,Computer Science,Intermediate
+student_3,c_105,59.0,55,2025-09-24 18:00:51.893192,Siyabonga Hlope,Interactive Science Quiz,Science,Beginner
+student_4,c_104,80.0,55,2025-09-24 08:00:51.893725,Dimbanyika Phindulo,Poetry Analysis,English,Intermediate
+student_5,c_105,64.0,52,2025-09-24 06:00:51.894007,Andile Maluleke,Interactive Science Quiz,Science,Beginner
+student_5,c_106,74.0,40,2025-09-23 23:00:51.893894,Andile Maluleke,Advanced Calculus,Mathematics,Advanced
+student_6,c_102,63.0,28,2025-09-23 21:00:51.894464,Glad Maimele,The Scientific Method,Science,Beginner
+student_8,c_105,94.0,22,2025-09-23 16:00:51.895267,Lebo Moloi,Interactive Science Quiz,Science,Beginner
+student_7,c_103,98.0,39,2025-09-22 20:00:51.894624,Thando Mthembu,World War II History,History,Intermediate
+student_1,c_111,88.0,28,2025-09-22 19:00:51.892116,Bethuel Sonyoni,Intro to Web Dev,Computer Science,Intermediate
+student_10,c_101,64.0,27,2025-09-22 16:00:51.896436,Nandi Ndlovu,Introduction to Algebra,Mathematics,Beginner
+student_7,c_106,87.0,34,2025-09-22 13:00:51.894669,Thando Mthembu,Advanced Calculus,Mathematics,Advanced
+student_1,c_106,75.0,7,2025-09-22 10:00:51.892312,Bethuel Sonyoni,Advanced Calculus,Mathematics,Advanced
+student_6,c_104,75.0,46,2025-09-22 09:00:51.894274,Glad Maimele,Poetry Analysis,English,Intermediate
+student_10,c_104,84.0,42,2025-09-22 07:00:51.896371,Nandi Ndlovu,Poetry Analysis,English,Intermediate
+student_2,c_105,98.0,21,2025-09-22 07:00:51.892765,Vutlhari Masinga,Interactive Science Quiz,Science,Beginner
+student_5,c_111,77.0,46,2025-09-22 04:00:51.893854,Andile Maluleke,Intro to Web Dev,Computer Science,Intermediate
+student_6,c_106,76.0,41,2025-09-21 03:00:51.894349,Glad Maimele,Advanced Calculus,Mathematics,Advanced
+student_2,c_101,79.0,41,2025-09-21 03:00:51.892547,Vutlhari Masinga,Introduction to Algebra,Mathematics,Beginner
+student_1,c_107,64.0,12,2025-09-20 20:00:51.892053,Bethuel Sonyoni,Introduction to Python,Computer Science,Beginner
+student_3,c_106,71.0,31,2025-09-20 12:00:51.893329,Siyabonga Hlope,Advanced Calculus,Mathematics,Advanced
+student_3,c_107,52.0,34,2025-09-19 19:00:51.892956,Siyabonga Hlope,Introduction to Python,Computer Science,Beginner
+student_8,c_104,90.0,27,2025-09-19 17:00:51.895111,Lebo Moloi,Poetry Analysis,English,Intermediate
+student_8,c_104,76.0,51,2025-09-19 08:00:51.895193,Lebo Moloi,Poetry Analysis,English,Intermediate
+student_1,c_107,88.0,41,2025-09-19 02:00:51.892352,Bethuel Sonyoni,Introduction to Python,Computer Science,Beginner
+student_7,c_103,53.0,12,2025-09-18 17:00:51.894539,Thando Mthembu,World War II History,History,Intermediate
+student_2,c_101,61.0,5,2025-09-18 08:00:51.892918,Vutlhari Masinga,Introduction to Algebra,Mathematics,Beginner
+student_9,c_107,75.0,51,2025-09-18 05:00:51.895569,Sipho Dlamini,Introduction to Python,Computer Science,Beginner
+student_4,c_106,51.0,39,2025-09-18 01:00:51.893482,Dimbanyika Phindulo,Advanced Calculus,Mathematics,Advanced
+student_9,c_109,66.0,26,2025-09-17 17:00:51.895421,Sipho Dlamini,The Romantic Period,English,Advanced
+student_3,c_101,64.0,27,2025-09-17 15:00:51.893240,Siyabonga Hlope,Introduction to Algebra,Mathematics,Beginner
+student_1,c_111,99.0,58,2025-09-17 13:00:51.892447,Bethuel Sonyoni,Intro to Web Dev,Computer Science,Intermediate
+student_2,c_108,72.0,27,2025-09-17 12:00:51.892841,Vutlhari Masinga,Biology Lab Simulation,Biology,Intermediate
+student_5,c_101,80.0,42,2025-09-16 21:00:51.894122,Andile Maluleke,Introduction to Algebra,Mathematics,Beginner
+student_7,c_104,53.0,53,2025-09-16 18:00:51.894908,Thando Mthembu,Poetry Analysis,English,Intermediate
+student_3,c_109,64.0,52,2025-09-16 00:00:51.893070,Siyabonga Hlope,The Romantic Period,English,Advanced
+student_4,c_111,58.0,11,2025-09-15 20:00:51.893573,Dimbanyika Phindulo,Intro to Web Dev,Computer Science,Intermediate
+student_5,c_102,75.0,55,2025-09-15 13:00:51.893970,Andile Maluleke,The Scientific Method,Science,Beginner
+student_4,c_103,59.0,16,2025-09-15 08:00:51.893612,Dimbanyika Phindulo,World War II History,History,Intermediate
+student_1,c_104,74.0,21,2025-09-14 15:00:51.892405,Bethuel Sonyoni,Poetry Analysis,English,Intermediate
+student_6,c_104,76.0,44,2025-09-14 12:00:51.894312,Glad Maimele,Poetry Analysis,English,Intermediate
+student_5,c_111,66.0,46,2025-09-14 00:00:51.893777,Andile Maluleke,Intro to Web Dev,Computer Science,Intermediate
+student_4,c_112,55.0,11,2025-09-13 01:00:51.893649,Dimbanyika Phindulo,The French Revolution,History,Intermediate
+student_9,c_112,86.0,19,2025-09-12 20:00:51.895495,Sipho Dlamini,The French Revolution,History,Intermediate
+student_1,c_104,92.0,35,2025-09-11 20:00:51.892159,Bethuel Sonyoni,Poetry Analysis,English,Intermediate

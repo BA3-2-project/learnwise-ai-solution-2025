@@ -1,0 +1,13 @@
+content_id,title,subject,content_type,difficulty_level,duration_minutes,description,prerequisites,tags
+c_101,Introduction to Algebra,Mathematics,Video,Beginner,15,Basic concepts of algebra.,None,"algebra,math"
+c_102,The Scientific Method,Science,Article,Beginner,10,Learn how to think like a scientist.,None,"science,methodology"
+c_103,World War II History,History,Video,Intermediate,25,A detailed overview of WWII.,c_102,"history,wwii"
+c_104,Poetry Analysis,English,Text,Intermediate,20,How to analyze poetry for deeper meaning.,None,"english,poetry"
+c_105,Interactive Science Quiz,Science,Quiz,Beginner,5,Test your knowledge on basic science facts.,None,"science,quiz,interactive"
+c_106,Advanced Calculus,Mathematics,Video,Advanced,45,Complex concepts in calculus.,c_101,"calculus,math"
+c_107,Introduction to Python,Computer Science,Interactive,Beginner,60,Learn the basics of coding with Python.,None,"coding,python,interactive"
+c_108,Biology Lab Simulation,Biology,Interactive,Intermediate,30,Virtual lab for cell biology.,c_102,"biology,lab,interactive"
+c_109,The Romantic Period,English,Text,Advanced,35,A deep dive into Romantic literature.,c_104,"english,literature"
+c_110,Chemistry Basics Quiz,Chemistry,Quiz,Beginner,10,Test your basic chemistry knowledge.,None,"chemistry,quiz"
+c_111,Intro to Web Dev,Computer Science,Interactive,Intermediate,45,"Basic web dev with HTML, CSS",c_107,"coding,webdev"
+c_112,The French Revolution,History,Article,Intermediate,15,Key events of the French Revolution,None,"history,frenchrevolution"
