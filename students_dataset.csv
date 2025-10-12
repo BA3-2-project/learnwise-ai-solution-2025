@@ -1,0 +1,11 @@
+student_id,name,grade_level,learning_style,preferred_subjects
+student_1,Bethuel Sonyoni,Grade 10,Visual,"Mathematics, Science"
+student_2,Vutlhari Masinga,Grade 9,Auditory,"English, History"
+student_3,Siyabonga Hlope,Grade 11,Kinesthetic,"Science, Art"
+student_4,Dimbanyika Phindulo,Grade 10,Reading/Writing,"Mathematics, English"
+student_5,Andile Maluleke,Grade 9,Visual,"Art, History"
+student_6,Glad Maimele,Grade 12,Auditory,"Physics, Chemistry"
+student_7,Thando Mthembu,Grade 11,Kinesthetic,"Biology, Geography"
+student_8,Lebo Moloi,Grade 10,Reading/Writing,"Literature, Drama"
+student_9,Sipho Dlamini,Grade 9,Visual,"Computer Science, Robotics"
+student_10,Nandi Ndlovu,Grade 12,Auditory,"Music, History"
