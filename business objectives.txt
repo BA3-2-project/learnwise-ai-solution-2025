@@ -1,25 +1,76 @@
 ## Business Objectives
 
-Goals
-- Reduce industrial downtime by predicting equipment failures before they occur.  
-- Optimize maintenance costs through proactive and data-driven decision-making.  
-- Provide actionable insights that improve reliability, safety, and sustainability in industrial operations.  
-- Demonstrate a practical AI solution that balances academic rigor with real-world impact.  
+The goal is to develop an AI-powered personalized learning system that: 
+− Reduce Educator Workload: Reduce the time educators spend on manual 
+content customization and progress tracking by 30%. 
+− Improve Student Academic Performance: Increase the average student score on 
+a set of standardized assessments by at least 10% within the first year of 
+implementation.   
+−  Optimize maintenance costs through proactive and data-driven decision-making.   
+−  Boost Student Engagement: Achieve a 20% increase in average time spent on 
+learning activities per student per week. 
+−  Demonstrate a practical AI solution that balances academic rigor with real-world 
+impact. 
 
-Success Criteria
-- Achieve at least 80% accuracy in predicting equipment failures on test data.  
-- Deliver a fully functional prototype integrated with simulated industrial sensor data.  
-- Ensure that results and decision-making outputs are transparent and explainable to end users.  
-- Receive positive evaluation during project presentation (21–23 October 2025) by meeting academic marking rubric standards.  
 
-Risks
-- Data Quality Issues: Simulated or public datasets may not fully represent real-world industrial environments.  
-- Model Overfitting: The predictive model may perform well in testing but poorly in real-world deployment.  
-- Time Constraints: Limited development time before project deadline may impact feature completeness.  
-- Technical Challenges:Integration of multiple AI techniques (ML, DL, NLP) could cause delays.  
+Success Criteria: 
+− High User Adoption: The system achieves a user adoption rate of over 80% for 
+both students and educators in the target schools within six months.   
+− Deliver a fully functional prototype integrated with simulated industrial sensor 
+data.   
+− Ensure that results and decision-making outputs are transparent and explainable 
+to end users.   
+− Measurable Academic Growth: Student performance metrics (e.g., test scores, 
+grades) show a statistically significant improvement. 
+− Positive Feedback Loop: The AI models show continuous improvement in prediction 
+accuracy and recommendation relevance, as evidenced by user satisfaction 
+surveys and model performance metrics (R2, MSE).
 
-Constraints
-- Timeframe: Project must be completed by 13 October 2025.  
-- Resources:Limited to publicly available or simulated data and open-source tools.  
-- Team Capacity:Work divided among six members, with academic workload alongside project.  
-- Ethical Boundaries: AI solution must comply with ethical standards, avoiding bias and ensuring data privacy.  
+
+Requirements:  
+− The solution must have a secure, multi-user web interface; a robust database for 
+data   storage and retrieval; and a modular, scalable architecture to 
+accommodate future   growth and feature additions.  
+
+
+Risks: 
+− Data Privacy and Security: The risk of a data breach is significant. We will 
+mitigate this with robust encryption, access controls, and strict adherence to data 
+privacy regulations.   
+− Model Overfitting: The predictive model may perform well in testing but poorly in 
+real-world deployment.   
+−  Time Constraints: Limited development time before the project deadline may 
+impact feature completeness.   
+−  Technical Challenges: Integration of multiple AI techniques (ML, DL, NLP) could 
+cause delays.  
+− User Resistance: Educators and students may be hesitant to adopt the new 
+technology. This will be addressed through comprehensive training, a user
+friendly design, and ongoing support.   
+− Algorithmic Bias: The AI models may inadvertently learn and reinforce biases 
+present in the training data, potentially leading to unfair recommendations. This 
+will be mitigated through regular audits of the model's outputs and a focus on 
+creating a diverse and representative training dataset.
+
+
+Constraints: 
+−  Initial development is limited by a fixed budget and a small team. The system 
+must be deployable on standard cloud infrastructure, and it must operate 
+independently of existing legacy school systems initially. 
+− Timeframe: Project must be completed by 13 October 2025.   
+−  Resources: Limited to publicly available or simulated data and open-source 
+tools.   
+− Team Capacity: Work is divided among six members, with academic workload 
+alongside project.   
+−  Ethical Boundaries: AI solution must comply with ethical standards, avoiding 
+bias and ensuring data privacy. 
+
+
+Initial Assessment of Tools and Techniques: 
+− Programming Language: Python will be the primary language due to its strong 
+support for AI and data science libraries.  
+− Database: A relational database like SQLite will be used for the initial prototype 
+due to its ease of use and local file-based storage. For a production environment, 
+this would be upgraded to a scalable cloud database like Firebase 
+− AI/ML Libraries: We will use Scikit-learn for our core machine learning models 
+(e.g., Random Forest) and NLTK for basic NLP tasks. If deep learning is needed, 
+we will use TensorFlow or PyTorch for their advanced capabilities.
